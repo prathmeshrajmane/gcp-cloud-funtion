@@ -5,5 +5,5 @@ app = Flask(__name__)
 
 @app.route("/", methods=["GET"])
 def hello_world():
-    return "Hello from Cloud Function v1!", 200
+    return "Hello from Cloud Function v!", 200
 
