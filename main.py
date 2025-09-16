@@ -10,5 +10,5 @@ def app(request):
     Returns:
         A plain-text response.
     """
-    return "Hello, Cloud Functions (Gen2)!", 200
+    return "Hello, Cloud Functions (Gen1)!", 200
 
