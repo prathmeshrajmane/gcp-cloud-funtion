@@ -1,0 +1,3 @@
+  --role="roles/cloudfunctions.admin"
+  --role="roles/run.admin"
+  --role="roles/iam.serviceAccountUser"
