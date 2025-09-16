@@ -1,1 +1,2 @@
-flask==2.3.2
+functions-framework==3.5.0  # <— REQUIRED
+flask==2.3.2                # optional, used by the framework internally
